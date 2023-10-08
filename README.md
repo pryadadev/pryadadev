@@ -4,7 +4,7 @@
 
 ### Выполненные тестовые задания (4):
 - [Custom Styled Form](https://github.com/pryadadev/test-task-frontend-form)
-> Форма с кастомными стилизованными input, checkbox, toggle, radio-selection, dropdown-selection. Валидация для формы. Когда все данные валидны, при нажатии на кнопку, вывод всех данных из формы в JSON.
+> Форма с кастомными стилизованными input, checkbox, toggle, radio-selection, dropdown-selection. Перемещение по Tab и действие по Enter. Валидация для формы. Когда все данные валидны, при нажатии на кнопку, вывод всех данных из формы в JSON.
 - [Landing (React + Sass + Vite)](https://github.com/pryadadev/test-task-landing)
 > Лендинг Desktop first с адаптацией под все экраны. PixelPerfect по PhotoShop. Эффекты при наведении на активные элементы (кнопки, ссылки).
 - [Form + Table (PHP + JS)](https://github.com/pryadadev/test-task-php)
