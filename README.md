@@ -1,19 +1,38 @@
 # Добро пожаловать на мой github!
+#### Email: pryadadev@gmail.com
+## Выполненные тестовые задания (4):
 
-### pryadadev@gmail.com
+1. **Форма с кастомными стилизованными элементами**
+   - Кастомные стилизованные `input`, `checkbox`, `toggle`, `radio-selection`, `dropdown-selection`
+   - Перемещение по `Tab` и действие по `Enter`
+   - Валидация полей ввода по количеству символов и по допустимым символам
+   - Когда все данные валидны, при нажатии на кнопку, **вывод всех данных** из формы в `JSON`
+   - [Репозиторий (исходный код)](https://github.com/pryadadev/test-task-frontend-form)
+   - [Демо (рабочая версия сайта)](https://pryadadev.github.io/test-task-frontend-form/)
+   - **Стек: `React`, `TypeScript`, `TailwindCSS`, `Vite`**
 
-### Выполненные тестовые задания (4):
-- [Custom Styled Form (React + TypeScript + Tailwind + Vite](https://github.com/pryadadev/test-task-frontend-form)
-- [Демо](https://pryadadev.github.io/test-task-frontend-form/)
-> Форма с кастомными стилизованными input, checkbox, toggle, radio-selection, dropdown-selection. Перемещение по Tab и действие по Enter. Валидация для формы. Когда все данные валидны, при нажатии на кнопку, вывод всех данных из формы в JSON.
-- [Landing (React + Sass + Vite)](https://github.com/pryadadev/test-task-landing)
-- [Демо](https://pryadadev.github.io/test-task-landing/)
-> Лендинг Desktop first с адаптацией под все экраны. PixelPerfect по PhotoShop. Эффекты при наведении на активные элементы (кнопки, ссылки).
+<br>
+
+2. **Классический одностраничный лендинг**
+   - Подход `Desktop First`
+   - `Pixel Perfect` вёрстка
+   - Адаптивная вёрстка
+   - `Hover` анимации при наведении на активные и некоторые другие элементы
+   - [Репозиторий (исходный код)](https://github.com/pryadadev/test-task-landing)
+   - [Демо (рабочая версия сайта)](https://pryadadev.github.io/test-task-landing/)
+   - **Стек: `React`, `JavaScript`, `SCSS`, `Vite`**
+
+<br>
+
+3. **Лендинг с множеством наложений картинок**
+   - Версия только для 1920x1080
+   - `Pixel Perfect` вёрстка
+   - [Репозиторий (исходный код)](https://github.com/pryadadev/test-task-allods)
+   - [Демо (рабочая версия сайта)](https://pryadadev.github.io/test-task-allods/)
+   - **Стек: `React`, `JavaScript`, `CSS`, `Webpack`**
+
 - [Form + Table (PHP + JS)](https://github.com/pryadadev/test-task-php)
 > Форма для добавления товара и таблица товаров. Записи из формы добавляются в txt-файл. Таблица получает данные из txt-файла. Сортировка по столбцам. В нижней строчке суммы по числовым столбцам. Не залит на хостинг, запуск только локально.
-- [Landing (React + CSS + Webpack)](https://github.com/pryadadev/test-task-allods)
-- [Демо](https://pryadadev.github.io/test-task-allods/)
-> Простой лендинг с множеством картинок наложенных друг на друга. PixelPerfect по Figma. Вёрстка только десктоп дизайн, без адаптивности, без гибкости.
 
 
 ### Среди достаточно крупных пет-проектов можно выделить 2:
